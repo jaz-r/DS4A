@@ -1,1 +1,1 @@
-### Data science work I completed in an online Python course using Jupyter Notebook.
+### Data science exercises and examples I completed using Jupyter Notebook.
